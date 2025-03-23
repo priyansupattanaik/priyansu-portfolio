@@ -211,7 +211,7 @@ const data = {
       name: "AI-Powered Resume Scanner",
       description:
         "Upload your resume to ResuScanner for a quick ATS score. Get insights on how well your resume stacks up and tips to make it shine, helping you stand out to recruiters.",
-      image: "/project-image/resuscannerai-project.jpeg",
+      image: "/project-image/resuscanner.png",
       liveUrl: "https://resuscanner.netlify.app",
       codeUrl: "https://github.com/priyansupattanaik/resuscanner.ai",
       technologies: ["Python", "Streamlit", "NLP"],
