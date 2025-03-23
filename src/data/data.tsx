@@ -236,7 +236,7 @@ const data = {
       name: "Vitamin Deficiency Detection",
       description:
         "Engineered a system to detect vitamin deficiencies using ML and image processing.",
-      image: "/project-image/vitamin-project.png",
+      image: "/project-image/vitamin-project.webp",
       // liveUrl: "https://example.com/project3",
       codeUrl: "https://github.com/priyansupattanaik/VitaminDeficiencyML",
       technologies: ["Python", "OpenCV", "Deep Learning", "Machine Learning"],
