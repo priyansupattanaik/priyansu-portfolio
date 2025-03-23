@@ -213,7 +213,7 @@ const data = {
         "Upload your resume to ResuScanner for a quick ATS score. Get insights on how well your resume stacks up and tips to make it shine, helping you stand out to recruiters.",
       image: "/project-image/resuscanner.png",
       liveUrl: "https://resuscanner.netlify.app",
-      codeUrl: "https://github.com/priyansupattanaik/resuscanner.ai",
+      // codeUrl: "https://github.com/priyansupattanaik/resuscanner.ai",
       technologies: ["Python", "Streamlit", "NLP"],
     },
     {
@@ -238,7 +238,7 @@ const data = {
         "Engineered a system to detect vitamin deficiencies using ML and image processing.",
       image: "/project-image/vitamin-project.webp",
       // liveUrl: "https://example.com/project3",
-      codeUrl: "https://github.com/priyansupattanaik/VitaminDeficiencyML",
+      // codeUrl: "https://github.com/priyansupattanaik/VitaminDeficiencyML",
       technologies: ["Python", "OpenCV", "Deep Learning", "Machine Learning"],
     },
     {
@@ -278,7 +278,7 @@ const data = {
         "Contributed to the development of My Job, a job-finding application, enhancing its functionality and user experience.",
       ],
       logo: "https://www.indoplus.net/_next/static/media/IP-Logo-Hori.86db063b.86db063b.png",
-      website: "https://www.indoplus.net/",
+      // website: "https://www.indoplus.net/",
     },
   ],
 
