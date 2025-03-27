@@ -232,6 +232,21 @@ const data = {
       ],
     },
     {
+      id: "project6",
+      name: "AI Tool Box",
+      description:
+        "Discover and explore the most powerful AI tools to enhance your workflow.",
+      image: "/project-image/aitoolsbox-project.png",
+      liveUrl: "https://aitoolsbox.netlify.app/",
+      // codeUrl: "https://github.com/priyansupattanaik/VitaminDeficiencyML",
+      technologies: [
+        "React",
+        "Gemini API",
+        "Natural Language Processing",
+        "SEO Optimization",
+      ],
+    },
+    {
       id: "project3",
       name: "Vitamin Deficiency Detection",
       description:
