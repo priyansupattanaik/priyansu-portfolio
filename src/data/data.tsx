@@ -236,7 +236,7 @@ const data = {
       name: "AI Tool Box",
       description:
         "Discover and explore the most powerful AI tools to enhance your workflow.",
-      image: "/project-image/aitoolsbox-project.png",
+      image: "/project-image/aitoolbox-project.png",
       liveUrl: "https://aitoolsbox.netlify.app/",
       // codeUrl: "https://github.com/priyansupattanaik/VitaminDeficiencyML",
       technologies: [
