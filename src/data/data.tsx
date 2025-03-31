@@ -73,7 +73,7 @@ const data = {
     description:
       "I’m Priyansu Pattanaik, a passionate tech enthusiast and creative problem-solver, building innovative solutions.",
     resumeUrl: "/resume/Priyansu.pdf", // Replace with actual URL to your resume
-    profileImage: "/profile-image/me.JPG", // Replace with your image URL
+    profileImage: "/profile-image/me.jpg", // Replace with your image URL
   },
 
   sections: [
