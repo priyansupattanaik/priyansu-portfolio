@@ -4,10 +4,12 @@ import {
   Code,
   Database,
   GitGraphIcon,
+  Link,
   Linkedin,
   Mail,
   Monitor,
   Paintbrush,
+  SunMedium,
   Video,
 } from "lucide-react";
 
@@ -329,6 +331,12 @@ const data = {
       name: "Email",
       url: "mailto:priyansupattanaikwork@gmail.com",
       icon: <Mail className="w-5 h-5" />,
+    },
+    {
+      id: "medium",
+      name: "Medium",
+      url: "https://medium.com/@priyansupattanaik",
+      icon: <Link className="w-5 h-5" />,
     },
   ],
 };
