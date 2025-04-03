@@ -249,6 +249,15 @@ const data = {
       ],
     },
     {
+      id: "project7",
+      name: "Peer Drop",
+      description: "A futuristic, offline-first P2P file-sharing web app.",
+      image: "/project-image/peerdrop-project.png",
+      liveUrl: "https://peer-drop.netlify.app/",
+      // codeUrl: "https://github.com/priyansupattanaik/VitaminDeficiencyML",
+      technologies: ["Web RTC", "PeerJS", "Web Bluetooth API", "WebSocket"],
+    },
+    {
       id: "project3",
       name: "Vitamin Deficiency Detection",
       description:
